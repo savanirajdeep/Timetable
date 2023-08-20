@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Timetable</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="crypto">Cryptography Theory &amp; Practice</string>
+    <string name="algo">Introduction to the Theory of Algorithms</string>
+    <string name="comp_prin">Principles of Computer Architecture</string>
+    <string name="time_morning">9:30 AM - 10:45 AM</string>
+    <string name="time_evening">5:00 PM - 6:15 PM</string>
+    <string name="location1">CMC 141 - CAS Multidisciplinary Complex</string>
+    <string name="location2">CHE 303 - Chemistry Department</string>
+    <string name="location3">BSF 100 - Bio-Science Building</string>
+</resources>
